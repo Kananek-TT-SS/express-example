@@ -15,7 +15,14 @@ pnpm install
 Run in development mode
 
 ```bash
-pnpm dev
+# On MacOS or Linux
+DEBUG=express-example:* pnpm dev
+
+# On Windows Command Prompt
+set DEBUG=express-example:* & pnpm dev
+
+# On Windows PowerShell
+$env:DEBUG='express-example:*'; pnpm dev
 ```
 
 Run in production mode
