@@ -9,17 +9,17 @@ An example Express.js application
 Install dependencies
 
 ```bash
-pnpm install
+npm install
 ```
 
 Run in development mode
 
 ```bash
-pnpm dev
+npm run dev
 ```
 
 Run in production mode
 
 ```bash
-pnpm start
+npm start
 ```
