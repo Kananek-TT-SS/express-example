@@ -1,6 +1,6 @@
 # Min Express Azure App Service
 
-Minimun Express.js application file stucture and dependencies for deploy to Azure App Service
+Minimum Express.js application file stucture and dependencies for deploy to Azure App Service
 
 ## Getting Started
 
