@@ -1,10 +1,10 @@
 {
   "name": "express-example",
   "version": "1.0.0",
-  "main": "main.js",
+  "main": "bin/www",
   "scripts": {
-    "start": "node main.js",
-    "dev": "node --watch main.js"
+    "start": "node bin/www",
+    "dev": "node --watch bin/www"
   },
   "keywords": [],
   "author": "",
