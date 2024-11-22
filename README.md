@@ -1,6 +1,6 @@
-# Express Example
+# Min Express Azure App Service
 
-An example Express.js application
+Minimun Express.js application file stucture and dependencies for deploy to Azure App Service
 
 ## Getting Started
 
